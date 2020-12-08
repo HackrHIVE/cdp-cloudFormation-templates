@@ -1,0 +1,10 @@
+{
+    "Resources": {
+        "cdpInternetGateway": {
+            "Type": "AWS::S3::Bucket",
+            "Properties": {
+                "BucketName": "cdp4132"
+            }
+        }
+    }
+}
