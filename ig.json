@@ -1,0 +1,19 @@
+{
+    "Resources": {
+        "cdpInternetGateway": {
+            "Type": "AWS::EC2::InternetGateway",
+            "Properties": {
+                "Tags": [
+                    {
+                        "Key": "uid",
+                        "Value": "17BCS4132"
+                    },
+                    {
+                        "Key": "name",
+                        "Value": "Chirag"
+                    }
+                ]
+            }
+        }
+    }
+}
